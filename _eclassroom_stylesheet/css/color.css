@@ -1,0 +1,757 @@
+/*
+* Utility CSS generated from PHP
+* Written by habbeboy
+* Date Generated: 20-10-2015 03:06 am
+*/
+/* line 157, utility-css.scss */
+.color-aliceblue {
+  color: aliceblue;
+}
+
+/* line 161, utility-css.scss */
+.color-antiquewhite {
+  color: antiquewhite;
+}
+
+/* line 165, utility-css.scss */
+.color-aqua {
+  color: cyan;
+}
+
+/* line 169, utility-css.scss */
+.color-aquamarine {
+  color: aquamarine;
+}
+
+/* line 173, utility-css.scss */
+.color-azure {
+  color: azure;
+}
+
+/* line 177, utility-css.scss */
+.color-beige {
+  color: beige;
+}
+
+/* line 181, utility-css.scss */
+.color-bisque {
+  color: bisque;
+}
+
+/* line 185, utility-css.scss */
+.color-black {
+  color: black;
+}
+
+/* line 189, utility-css.scss */
+.color-blanchedalmond {
+  color: blanchedalmond;
+}
+
+/* line 193, utility-css.scss */
+.color-blue {
+  color: blue;
+}
+
+/* line 197, utility-css.scss */
+.color-blueviolet {
+  color: blueviolet;
+}
+
+/* line 201, utility-css.scss */
+.color-brown {
+  color: brown;
+}
+
+/* line 205, utility-css.scss */
+.color-burlywood {
+  color: burlywood;
+}
+
+/* line 209, utility-css.scss */
+.color-cadetblue {
+  color: cadetblue;
+}
+
+/* line 213, utility-css.scss */
+.color-chartreuse {
+  color: chartreuse;
+}
+
+/* line 217, utility-css.scss */
+.color-chocolate {
+  color: chocolate;
+}
+
+/* line 221, utility-css.scss */
+.color-coral {
+  color: coral;
+}
+
+/* line 225, utility-css.scss */
+.color-cornflowerblue {
+  color: cornflowerblue;
+}
+
+/* line 229, utility-css.scss */
+.color-cornsilk {
+  color: cornsilk;
+}
+
+/* line 233, utility-css.scss */
+.color-crimson {
+  color: crimson;
+}
+
+/* line 237, utility-css.scss */
+.color-cyan {
+  color: cyan;
+}
+
+/* line 241, utility-css.scss */
+.color-darkblue {
+  color: darkblue;
+}
+
+/* line 245, utility-css.scss */
+.color-darkcyan {
+  color: darkcyan;
+}
+
+/* line 249, utility-css.scss */
+.color-darkgoldenrod {
+  color: darkgoldenrod;
+}
+
+/* line 253, utility-css.scss */
+.color-darkgray {
+  color: darkgrey;
+}
+
+/* line 257, utility-css.scss */
+.color-darkgreen {
+  color: darkgreen;
+}
+
+/* line 261, utility-css.scss */
+.color-darkgrey {
+  color: darkgrey;
+}
+
+/* line 265, utility-css.scss */
+.color-darkkhaki {
+  color: darkkhaki;
+}
+
+/* line 269, utility-css.scss */
+.color-darkmagenta {
+  color: darkmagenta;
+}
+
+/* line 273, utility-css.scss */
+.color-darkolivegreen {
+  color: darkolivegreen;
+}
+
+/* line 277, utility-css.scss */
+.color-darkorange {
+  color: darkorange;
+}
+
+/* line 281, utility-css.scss */
+.color-darkorchid {
+  color: darkorchid;
+}
+
+/* line 285, utility-css.scss */
+.color-darkred {
+  color: darkred;
+}
+
+/* line 289, utility-css.scss */
+.color-darksalmon {
+  color: darksalmon;
+}
+
+/* line 293, utility-css.scss */
+.color-darkseagreen {
+  color: darkseagreen;
+}
+
+/* line 297, utility-css.scss */
+.color-darkslateblue {
+  color: darkslateblue;
+}
+
+/* line 301, utility-css.scss */
+.color-darkslategray {
+  color: darkslategrey;
+}
+
+/* line 305, utility-css.scss */
+.color-darkslategrey {
+  color: darkslategrey;
+}
+
+/* line 309, utility-css.scss */
+.color-darkturquoise {
+  color: darkturquoise;
+}
+
+/* line 313, utility-css.scss */
+.color-darkviolet {
+  color: darkviolet;
+}
+
+/* line 317, utility-css.scss */
+.color-deeppink {
+  color: deeppink;
+}
+
+/* line 321, utility-css.scss */
+.color-deepskyblue {
+  color: deepskyblue;
+}
+
+/* line 325, utility-css.scss */
+.color-dimgray {
+  color: dimgrey;
+}
+
+/* line 329, utility-css.scss */
+.color-dimgrey {
+  color: dimgrey;
+}
+
+/* line 333, utility-css.scss */
+.color-dodgerblue {
+  color: dodgerblue;
+}
+
+/* line 337, utility-css.scss */
+.color-firebrick {
+  color: firebrick;
+}
+
+/* line 341, utility-css.scss */
+.color-floralwhite {
+  color: floralwhite;
+}
+
+/* line 345, utility-css.scss */
+.color-forestgreen {
+  color: forestgreen;
+}
+
+/* line 349, utility-css.scss */
+.color-fuchsia {
+  color: magenta;
+}
+
+/* line 353, utility-css.scss */
+.color-gainsboro {
+  color: gainsboro;
+}
+
+/* line 357, utility-css.scss */
+.color-ghostwhite {
+  color: ghostwhite;
+}
+
+/* line 361, utility-css.scss */
+.color-gold {
+  color: gold;
+}
+
+/* line 365, utility-css.scss */
+.color-goldenrod {
+  color: #ddaaaa;
+}
+
+/* line 369, utility-css.scss */
+.color-gray {
+  color: gray;
+}
+
+/* line 373, utility-css.scss */
+.color-green {
+  color: green;
+}
+
+/* line 377, utility-css.scss */
+.color-greenyellow {
+  color: greenyellow;
+}
+
+/* line 381, utility-css.scss */
+.color-grey {
+  color: gray;
+}
+
+/* line 385, utility-css.scss */
+.color-honeydew {
+  color: honeydew;
+}
+
+/* line 389, utility-css.scss */
+.color-hotpink {
+  color: hotpink;
+}
+
+/* line 393, utility-css.scss */
+.color-indianred {
+  color: indianred;
+}
+
+/* line 397, utility-css.scss */
+.color-indigo {
+  color: indigo;
+}
+
+/* line 401, utility-css.scss */
+.color-ivory {
+  color: ivory;
+}
+
+/* line 405, utility-css.scss */
+.color-khaki {
+  color: khaki;
+}
+
+/* line 409, utility-css.scss */
+.color-lavender {
+  color: lavender;
+}
+
+/* line 413, utility-css.scss */
+.color-lavenderblush {
+  color: lavenderblush;
+}
+
+/* line 417, utility-css.scss */
+.color-lawngreen {
+  color: lawngreen;
+}
+
+/* line 421, utility-css.scss */
+.color-lemonchiffon {
+  color: lemonchiffon;
+}
+
+/* line 425, utility-css.scss */
+.color-lightblue {
+  color: lightblue;
+}
+
+/* line 429, utility-css.scss */
+.color-lightcoral {
+  color: lightcoral;
+}
+
+/* line 433, utility-css.scss */
+.color-lightcyan {
+  color: lightcyan;
+}
+
+/* line 437, utility-css.scss */
+.color-lightgoldenrodyellow {
+  color: #ffaaff;
+}
+
+/* line 441, utility-css.scss */
+.color-lightgray {
+  color: lightgrey;
+}
+
+/* line 445, utility-css.scss */
+.color-lightgreen {
+  color: lightgreen;
+}
+
+/* line 449, utility-css.scss */
+.color-lightgrey {
+  color: lightgrey;
+}
+
+/* line 453, utility-css.scss */
+.color-lightpink {
+  color: lightpink;
+}
+
+/* line 457, utility-css.scss */
+.color-lightsalmon {
+  color: lightsalmon;
+}
+
+/* line 461, utility-css.scss */
+.color-lightseagreen {
+  color: lightseagreen;
+}
+
+/* line 465, utility-css.scss */
+.color-lightskyblue {
+  color: lightskyblue;
+}
+
+/* line 469, utility-css.scss */
+.color-lightslategray {
+  color: lightslategrey;
+}
+
+/* line 473, utility-css.scss */
+.color-lightslategrey {
+  color: lightslategrey;
+}
+
+/* line 477, utility-css.scss */
+.color-lightsteelblue {
+  color: lightsteelblue;
+}
+
+/* line 481, utility-css.scss */
+.color-lightyellow {
+  color: lightyellow;
+}
+
+/* line 485, utility-css.scss */
+.color-lime {
+  color: lime;
+}
+
+/* line 489, utility-css.scss */
+.color-limegreen {
+  color: limegreen;
+}
+
+/* line 493, utility-css.scss */
+.color-linen {
+  color: linen;
+}
+
+/* line 497, utility-css.scss */
+.color-magenta {
+  color: magenta;
+}
+
+/* line 501, utility-css.scss */
+.color-maroon {
+  color: maroon;
+}
+
+/* line 505, utility-css.scss */
+.color-mediumaquamarine {
+  color: mediumaquamarine;
+}
+
+/* line 509, utility-css.scss */
+.color-mediumblue {
+  color: mediumblue;
+}
+
+/* line 513, utility-css.scss */
+.color-mediumorchid {
+  color: mediumorchid;
+}
+
+/* line 517, utility-css.scss */
+.color-mediumpurple {
+  color: mediumpurple;
+}
+
+/* line 521, utility-css.scss */
+.color-mediumseagreen {
+  color: mediumseagreen;
+}
+
+/* line 525, utility-css.scss */
+.color-mediumslateblue {
+  color: mediumslateblue;
+}
+
+/* line 529, utility-css.scss */
+.color-mediumspringgreen {
+  color: mediumspringgreen;
+}
+
+/* line 533, utility-css.scss */
+.color-mediumturquoise {
+  color: mediumturquoise;
+}
+
+/* line 537, utility-css.scss */
+.color-mediumvioletred {
+  color: mediumvioletred;
+}
+
+/* line 541, utility-css.scss */
+.color-midnightblue {
+  color: midnightblue;
+}
+
+/* line 545, utility-css.scss */
+.color-mintcream {
+  color: mintcream;
+}
+
+/* line 549, utility-css.scss */
+.color-mistyrose {
+  color: mistyrose;
+}
+
+/* line 553, utility-css.scss */
+.color-moccasin {
+  color: moccasin;
+}
+
+/* line 557, utility-css.scss */
+.color-navajowhite {
+  color: navajowhite;
+}
+
+/* line 561, utility-css.scss */
+.color-navy {
+  color: navy;
+}
+
+/* line 565, utility-css.scss */
+.color-oldlace {
+  color: oldlace;
+}
+
+/* line 569, utility-css.scss */
+.color-olive {
+  color: olive;
+}
+
+/* line 573, utility-css.scss */
+.color-olivedrab {
+  color: olivedrab;
+}
+
+/* line 577, utility-css.scss */
+.color-orange {
+  color: orange;
+}
+
+/* line 581, utility-css.scss */
+.color-orangered {
+  color: orangered;
+}
+
+/* line 585, utility-css.scss */
+.color-orchid {
+  color: orchid;
+}
+
+/* line 589, utility-css.scss */
+.color-palegoldenrod {
+  color: palegoldenrod;
+}
+
+/* line 593, utility-css.scss */
+.color-palegreen {
+  color: palegreen;
+}
+
+/* line 597, utility-css.scss */
+.color-paleturquoise {
+  color: paleturquoise;
+}
+
+/* line 601, utility-css.scss */
+.color-palevioletred {
+  color: palevioletred;
+}
+
+/* line 605, utility-css.scss */
+.color-papayawhip {
+  color: papayawhip;
+}
+
+/* line 609, utility-css.scss */
+.color-peachpuff {
+  color: peachpuff;
+}
+
+/* line 613, utility-css.scss */
+.color-peru {
+  color: peru;
+}
+
+/* line 617, utility-css.scss */
+.color-pink {
+  color: pink;
+}
+
+/* line 621, utility-css.scss */
+.color-plum {
+  color: plum;
+}
+
+/* line 625, utility-css.scss */
+.color-powderblue {
+  color: powderblue;
+}
+
+/* line 629, utility-css.scss */
+.color-purple {
+  color: purple;
+}
+
+/* line 633, utility-css.scss */
+.color-red {
+  color: red;
+}
+
+/* line 637, utility-css.scss */
+.color-rosybrown {
+  color: rosybrown;
+}
+
+/* line 641, utility-css.scss */
+.color-royalblue {
+  color: royalblue;
+}
+
+/* line 645, utility-css.scss */
+.color-saddlebrown {
+  color: saddlebrown;
+}
+
+/* line 649, utility-css.scss */
+.color-salmon {
+  color: salmon;
+}
+
+/* line 653, utility-css.scss */
+.color-sandybrown {
+  color: sandybrown;
+}
+
+/* line 657, utility-css.scss */
+.color-seagreen {
+  color: seagreen;
+}
+
+/* line 661, utility-css.scss */
+.color-seashell {
+  color: seashell;
+}
+
+/* line 665, utility-css.scss */
+.color-sienna {
+  color: sienna;
+}
+
+/* line 669, utility-css.scss */
+.color-silver {
+  color: silver;
+}
+
+/* line 673, utility-css.scss */
+.color-skyblue {
+  color: skyblue;
+}
+
+/* line 677, utility-css.scss */
+.color-slateblue {
+  color: slateblue;
+}
+
+/* line 681, utility-css.scss */
+.color-slategray {
+  color: slategrey;
+}
+
+/* line 685, utility-css.scss */
+.color-slategrey {
+  color: slategrey;
+}
+
+/* line 689, utility-css.scss */
+.color-snow {
+  color: snow;
+}
+
+/* line 693, utility-css.scss */
+.color-springgreen {
+  color: springgreen;
+}
+
+/* line 697, utility-css.scss */
+.color-steelblue {
+  color: steelblue;
+}
+
+/* line 701, utility-css.scss */
+.color-tan {
+  color: tan;
+}
+
+/* line 705, utility-css.scss */
+.color-teal {
+  color: teal;
+}
+
+/* line 709, utility-css.scss */
+.color-thistle {
+  color: thistle;
+}
+
+/* line 713, utility-css.scss */
+.color-tomato {
+  color: tomato;
+}
+
+/* line 717, utility-css.scss */
+.color-turquoise {
+  color: turquoise;
+}
+
+/* line 721, utility-css.scss */
+.color-violet {
+  color: violet;
+}
+
+/* line 725, utility-css.scss */
+.color-wheat {
+  color: wheat;
+}
+
+/* line 729, utility-css.scss */
+.color-white {
+  color: white;
+}
+
+/* line 733, utility-css.scss */
+.color-whitesmoke {
+  color: whitesmoke;
+}
+
+/* line 737, utility-css.scss */
+.color-yellow {
+  color: yellow;
+}
+
+/* line 741, utility-css.scss */
+.color-yellowgreen {
+  color: yellowgreen;
+}
+
+/*
+    layout
+*/
+/* line 751, utility-css.scss */
+.float-left {
+  float: left;
+}
+
+/* line 755, utility-css.scss */
+.float-right {
+  float: right;
+}
+
+/* line 759, utility-css.scss */
+.clear-both {
+  clear: both;
+}

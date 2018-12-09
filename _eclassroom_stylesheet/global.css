@@ -1,0 +1,145 @@
+
+#container {
+	width:950px;
+	padding:10px;
+	position:absolute;
+	z-index:0;
+}
+
+#example {
+	width:950px;
+	height:300px;
+} 
+
+
+
+/*
+	Slideshow
+*/
+
+#slides {
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:100;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+.slides_container {
+	width:950px;
+	overflow:hidden;
+	position:absolute;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container div.slide {
+	width:950px;
+	height:300px;
+	display:block;
+}
+
+
+/*
+	Next/prev buttons
+*/
+
+#slides {
+	position:absolute;
+	width:24px;
+	height:43px;
+	display:block;
+	z-index:101;
+}
+
+
+.next .prev {
+	position:absolute;
+	top:107px;
+	left:0px;
+	width:24px;
+	height:43px;
+	display:block;
+	z-index:101;
+}
+
+#slides .next {
+	left:0;
+}
+
+/*
+	Pagination
+*/
+
+.pagination {
+	width:100px;
+}
+
+.pagination li {
+	float:left;
+	list-style:none;
+}
+
+.pagination li a {
+	display:block;
+	width:12px;
+	height:0;
+	padding-top:12px;
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+
+
+/*
+	Caption
+*/
+
+.caption {
+	z-index:500;
+	position:absolute;
+	height:30px;
+	padding:5px 20px 0 20px;
+	background:rgba(0,0,0,.5);
+	width:950px;
+	font-size:18px;
+	border-top:1px solid #000;
+	font:15px arial,verdana;
+} 
+
+/*
+	Footer
+*/
+
+#footer {
+	text-align:center;
+	width:950px;
+	color:white;
+	padding:4.5px 0 18px;
+	border-top:1px solid #dfdfdf;
+}
+
+ #span {
+	margin:4.5px 0;
+	color:#ffffff;
+	font-family:verdana,arial;
+	font:15px;
+	text-shadow:1px 1px 1px #000;
+	text-transform:capitalize;
+}
+
+
